@@ -1,3 +1,1 @@
-itsyashshah.github.io
-
-##My personal website 
+# itsyashshah.github.io - ## My personal website 
